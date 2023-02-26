@@ -1,0 +1,12 @@
+name: ligo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - h5py
+  - scipy
+  - json
+prefix: /home/jovyan/envs/ligo
